@@ -1,12 +1,5 @@
 
 
-
-
-<br>
-
-
-
-
 #  &nbsp;Jed’s Other Poem <br>(Beautiful Ground)<br>&nbsp;music video
 
 <img src="./misc/jed.jpg?raw=true" width="100%" style="border-radius: 24px;">
@@ -18,7 +11,7 @@ https://stewartsmith.io/work/jed
 <br>
 
 | Element                       | Party |
-|-------------------------------|----------------------------|
+|:------------------------------|:------|
 | Music                         | [Grandaddy](https://grandaddymusic.com) | 
 | Concept, direction, execution | [Stewart Smith](https://stewartsmith.io) | 
 | Camera                        | [Jeff Bernier](https://jeffbernier.se) |
@@ -39,7 +32,7 @@ https://stewartsmith.io/work/jed
 On the occasion of this music video’s 20th anniversary (September 2005–2025), I’ve decided to take the long-overdue step of publishing its code to GitHub. Originally open-sourced in December 2005 (only a few months after [Linus](https://en.wikipedia.org/wiki/Linus_Torvalds) created [Git](https://en.wikipedia.org/wiki/Git)—and well before [GitHub](https://en.wikipedia.org/wiki/GitHub) existed), the ZIP file containing the code was available solely from my own website. This new repository retains those original source files: 
 
 | File name | Description |
-|-----------|-------------|
+|:----------|:------------|
 | `jed.bas` | Applesoft BASIC source code as plain text. |
 | `jed.dsk` | Binary disk image for emulators. |
 | `jed.aif` | Code as audio for use with [`BLOAD` command](https://stewartsmith.io/work/jed#data-as-audio) on vintage Apples. |
@@ -49,7 +42,7 @@ The original `README` message is included here below. I’ve updated the `LICENS
 
 
 
-<br><br>
+<br>
 
 
 
