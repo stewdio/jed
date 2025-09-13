@@ -42,6 +42,28 @@ The original `README` message is included here below. I’ve updated the `LICENS
 
 
 
+###  How to: Load onto a vintage Apple
+
+<img src="./misc/loading.jpg?raw=true" width="100%" style="border-radius: 24px;">
+
+You’ve found yourself a working vintage [Apple&nbsp;II](https://en.wikipedia.org/wiki/Apple_II) computer. (Congratulations! That’s an increasingly difficult thing to do.) Perhaps it’s an Apple `][`, or `][+`, `//e`, or even a `//c`. What really matters is that your Apple&nbsp;II has a functioning audio cassette interface with a [3.5 mm  (1⁄8 inch) minijack port](https://en.wikipedia.org/wiki/Phone_connector_(audio)). 
+
+You will need a separate device that can ① playback the included `jed.aif` audio file, and ② can pipe that sound out through a 3.5 mm  (1⁄8 inch) minijack port. (If you’re playing the audio from a device that does not have a minijack port, such as a contemporary iPhone, you’ll need an adapter—for example, a USB-C-to-minijack adapter.) Finally, you will need a ③ male-male 3.5 mm  (1⁄8 inch) audio cable to physically connect the audio port on your device (or adapter) to the audio port on your Apple&nbsp;II. 
+
+Boot up your Apple&nbsp;II, then at the command prompt type `LOAD`, and press Return. This will appear to halt the machine as it waits for input from its minijack port. Make certain that your two devices are connected via your minijack audio cable. Then on your playback device, play the `jed.aif` audio file in its entirety. Once this completes, your Apple&nbsp;II will return control to you. Type `LIST` and press Return to verify that the code is now in memory. (If you grow impatient during the listing process, press the __CTRL__ and __C__ key together to exit the listing procedure early.) Type `RUN` and press Return to execute the program. Enjoy.
+
+To see this process in action (using a first generation iPad as the playback device), visit [Panic Software](https://panic.com/)’s May 2010 blog post “[An Apple //e, an iPad, and Jed](https://panic.com/blog/an-apple-e-an-ipad-and-jed/)” (pictured above). 
+
+
+
+
+###  How to: Load onto an emulator
+
+My Apple&nbsp;II emulator of choice is [Virtual&nbsp;II](https://www.virtualii.com) for macOS. While I will use that for illustration purposes here, you ought to be able to extract these instructions to your own platform / emulator combination.  
+
+
+
+
 <br>
 
 
